@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://rewcziwo.github.io/sitemap/sitemap.txt
